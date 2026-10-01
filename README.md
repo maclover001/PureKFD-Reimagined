@@ -28,7 +28,7 @@
 
 ## Credits
 
-- [F0rgeVL](https://github.com/lockr1n): Main Developer
+- [Mac.Clover](https://github.com/maclover001): Main Developer
 - [Lrdsnow](https://github.com/lrdsnow): App Main Developer
 - [Yangjiiii](https://github.com/YangJiiii): 3105
 - [Rooootdev](https://github.com/rooootdev): Mond and Lara
